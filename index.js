@@ -24,5 +24,5 @@ function dec(n){
 }
 function makeInt(n){
   var integer=parseInt(n);
-  return sum;
+  return integer;
 }
