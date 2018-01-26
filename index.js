@@ -11,6 +11,9 @@ function multiply(a,b){
   return mul;
 }
 function divide(a,b){
-  var sum=a+b;
-  return sum;
+  var div=a/b;
+  return div;
+}
+function inc(n){
+  
 }
