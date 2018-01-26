@@ -31,6 +31,6 @@ function makeInt(n){
   return integer;
 }
 function preserveDecimal(n){
-  var integer=parseInt("n",10);
+  var integer=parseInt(n,10);
   return integer;
 }
