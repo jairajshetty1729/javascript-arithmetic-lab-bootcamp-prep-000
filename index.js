@@ -18,3 +18,7 @@ function inc(n){
   var increment=++n;
   return increment;
 }
+function dec(n){
+  var decrement=--n;
+  return decrement;
+}
