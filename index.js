@@ -26,3 +26,7 @@ function makeInt(n){
   var integer=parseInt(n);
   return integer;
 }
+function makeInt(n){
+  var integer=parseInt(n,10);
+  return integer;
+}
