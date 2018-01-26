@@ -22,3 +22,7 @@ function dec(n){
   var decrement=--n;
   return decrement;
 }
+function makeInt(n){
+  var integer=parseInt(n);
+  return sum;
+}
